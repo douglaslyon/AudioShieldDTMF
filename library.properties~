@@ -1,0 +1,9 @@
+name=DTMFGenerate
+version=1.0.0
+author=Doughlas Lyon
+maintainer=Doughlas Lyon, DoughlasLyon@gmail.com
+sentence=BRIEFLY DESCRIBE YOUR LIBRARY HERE IN ONE SHORT SENTENCE.
+paragraph=WRITE MORE INFO ABOUT LIBRARY HERE
+category=Signal Input/Output
+url= http://www.PUTanURLforYOURsiteHERE.com
+architectures=avr

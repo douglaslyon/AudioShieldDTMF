@@ -1,0 +1,37 @@
+DTMF	KEYWORD1
+generate	KEYWORD1
+Dac		KEYWORD1
+dacWrite	KEYWORD1
+dacWrite16	KEYWORD1
+initTimers0	KEYWORD1
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MD_AButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setKeyId	KEYWORD2
+setDetectTime	KEYWORD2
+setRepeatTime	KEYWORD2
+getKey	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
+
+
+
+
+
+MD_Parola	KEYWORD1
+MD_PZone	KEYWORD1
+textPosition_t	KEYWORD1
+textEffect_t	KEYWORD1
