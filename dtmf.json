@@ -1,0 +1,20 @@
+{
+  "name": "audioShieldDTMF",
+  "keywords": "DTMF, library, example",
+  "description": "An example to show how to use the DTMF library with the audio shield",
+  "authors":
+  [
+    {
+      "name": "Douglas Lyon",
+      "email": "lyon@docjava.com"
+    }
+  ],
+  "repository":
+  {
+      "type": "git",
+    "url": "https://github.com/douglaslyon/AudioShieldDTMF/"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "uno"
+}
